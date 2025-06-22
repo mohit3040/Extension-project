@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "Productivity Tracker",
+  "version": "1.0",
+  "description": "Track and enhance your productivity",
+  "permissions": ["storage", "tabs", "history", "alarms", "activeTab"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "host_permissions": ["<all_urls>"],
+  "icons": {
+    "128": "icon.png"
+  }
+}
