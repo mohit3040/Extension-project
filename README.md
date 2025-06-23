@@ -1,12 +1,19 @@
-# React + Vite
+# CHROME EXTENSION FOR PERSONAL PRODUCTIVITY TRACKER
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+*COMPANY*: CODTECH IT SOLUTIONS
 
-Currently, two official plugins are available:
+*NAME*: MOHIT RATHORE
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*INTERN ID*: CT04DN1969
 
-## Expanding the ESLint configuration
+*DOMAIN*: REACT JS
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+This Chrome Extension is a personal productivity tracker built using React.js, designed to help users monitor and improve their daily work habits directly from the browser. The extension allows users to set goals, track time spent on various websites, and categorize activities as productive or unproductive. It features a clean and responsive React UI, real-time data visualization (e.g., pie charts, timelines), and local storage or Chrome Sync for persistent data. Users can receive alerts when exceeding time limits on distracting sites and view daily/weekly productivity reports. This tool aims to enhance focus, reduce procrastination, and promote mindful web usage—all without leaving the browser.
+
+*OUTPUT*
+
+![Image](https://github.com/user-attachments/assets/c9406e21-3f38-4e1d-8c54-d5f95b2d5b36)
